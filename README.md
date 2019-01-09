@@ -6,3 +6,7 @@ Why:
 Tools:
 - Java
 - Android Studio
+
+Screenshop:
+
+<img src="https://github.com/frankye1000/App_wedding/blob/master/App_wedding_screenshot.png" width="200" >
